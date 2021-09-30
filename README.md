@@ -8,7 +8,7 @@ Linear: O(n)  \
 Quadratic: O(n^2)  \
 All of these projects are coded in C#(default)  \
 The program files can be found in the BigO folder.  \
-All of the example programs are in the cs file 'Program.cs'  \
+All of the example programs are in the cs file 'Program.cs'
 
 ## Requests
 Pull requests are welcome
