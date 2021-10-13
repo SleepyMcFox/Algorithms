@@ -10,9 +10,12 @@ namespace FisherYatesShuffle
     {
         static void Main(string[] args)
         {
-            //Spells "Algorithms"
-            string[] mumbo = { "A", "L", "G", "O", "R",
-                                "I", "T", "H", "M", "S" };
+
+            string[] mumbo = new string[5];
+
+            //goes through the function to create the array
+            mumbo.CreateArray();
+
             //Executes the shuffle class made previously
             mumbo.FYShuffleArray();
 
