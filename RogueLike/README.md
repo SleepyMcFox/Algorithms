@@ -28,5 +28,5 @@ a gold counter in the player class, otherwise it adds it to the inventory array 
 While the inventory does work, items are picked up and stored, there is a bug that misaligns the object  \
 so it does not match the inventory slot. The text for the gold count does not change when the gold is added  \
 to the player. The enemy currently does not damage the player and vise versa. Hope to add that in the coming  \
-week. Drops for the enemy are currently not working/missing features so I hope to do that as well.  \
+week. Drops for the enemy are currently not working/missing features so I hope to do that as well.  
 
