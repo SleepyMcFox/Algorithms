@@ -23,7 +23,7 @@ stamina to do so. If the player does not have the stamina they will not sprint, 
 are not sprinting the stamina will quickly regenerate.  \
 For the pickup mechanic, it first checks to see what kind of item it picks up. Whether that be gold,  \
 collectibles, or any other thing that could be implemented. If it's gold, then it adds the value to  \
-a gold counter in the player class, otherwise it adds it to the inventory array if the spot is empty.  \
+a gold counter in the player class, otherwise it adds it to the inventory array if the spot is empty.  
 ## Current Bugs/Missing Features
 While the inventory does work, items are picked up and stored, there is a bug that misaligns the object  \
 so it does not match the inventory slot. The text for the gold count does not change when the gold is added  \
