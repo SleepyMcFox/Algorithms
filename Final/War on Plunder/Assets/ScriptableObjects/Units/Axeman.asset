@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7045ce16d38190049a39d6b6494ee3e2, type: 3}
+  m_Name: Axeman
+  m_EditorClassIdentifier: 
+  type: 2
+  unitName: 
+  playerPrefab: {fileID: 2647095155142261083, guid: 2a18520ef37ace142919be876a8ef940, type: 3}
+  enemyPrefab: {fileID: 2436627875917850857, guid: 335e4761e857cee4bbf65c6edc980667, type: 3}
+  icon: {fileID: 4674902391131998307, guid: 120bf18e6116d694a99376a09f431e2f, type: 3}
+  spawnTime: 10
+  baseStats:
+    cost: 125
+    aggroRange: 10
+    atkRange: 1
+    atkSpeed: 1.07
+    attack: 21
+    health: 125
+    defense: 1
