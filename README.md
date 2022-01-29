@@ -1,5 +1,5 @@
 # Algorithms
-Repository for Algorithms class
+Repository for Demonstration of Algorithmic Knowledge
 ## Current Algorithm Projects in File
 There are three current test algorithms for demonstrating
 the understanding of three concepts:  \
@@ -16,9 +16,10 @@ or later and require both a player and enemy object with Rigidbody2D to run.  \
 
 The Fisher-Yates Algorithm sorts an array of strings spelling out the word  \
 'Algorithms'. The array can be of anything since its an obj rather than any  \
-specific parameter such as string or int.
+specific parameter such as string or int.  \
 
+The project for War on Plunder is a base format for a Real Time Strategy game  \
+demonstrating the properties of player and enemy AI and their behaviors associated  \
+to the units in their command.
 
-## Requests
-Pull requests are welcome
 
